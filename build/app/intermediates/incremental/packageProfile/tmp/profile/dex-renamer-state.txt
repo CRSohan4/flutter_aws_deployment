@@ -1,4 +1,0 @@
-#Thu Apr 14 10:23:33 IST 2022
-base.0=/Users/iamsohan/StudioProjects/demo_deployment_app/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
